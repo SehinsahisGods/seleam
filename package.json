@@ -1,0 +1,15 @@
+{
+  "name": "poseidon-oneri",
+  "version": "0.0.1",
+  "description": "Poseidon Oneri Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Poseidon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "keywords": []
+}
